@@ -10,7 +10,7 @@ The model is a Convolutional neural network.
 The data I have can be divided into two groups. 
 The first group is unlicensed images from google.The training set, 
 which I augmented using ImageDataGenerator. 
-Validation set and testing set 
+Validation set and testing set. 
 The second group is private photos from the garden.
 The images are located in the Dataset folder.
 # ⚙️ Project specifications
